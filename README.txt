@@ -11,4 +11,4 @@ Currently, four algorithms are available:
 3) BV  - iterative selection for hurdle model mediators with a binary hurdle for presence-absence
 	 with significance estimated at each iteration
 
-4) BVS - a modified version of BV with significance estiamted after all iteration steps
+4) BVS - a modified version of BV with significance estimated after all iteration steps
